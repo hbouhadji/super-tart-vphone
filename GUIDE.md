@@ -25,7 +25,7 @@ csrutil disable
 
 nvram amfi_get_out_of_my_way=1
 
-csrutil allow-reserach-guests enable
+csrutil allow-research-guests enable
 ```
 
 # 2. Create pcc-research vm
